@@ -1,5 +1,13 @@
-﻿# himanshu-855
-# Hi, I'm Himanshu 👋
+﻿<h1 align="center">Hey 👋, I'm Himanshu</h1>
+
+<h3 align="center">
+Building. Learning. Shipping.
+</h3>
+
+<br>
+
+---
+
 
 - 🚀 Full Stack Web Developer
 - 🧠 Strong in DSA & Problem Solving
