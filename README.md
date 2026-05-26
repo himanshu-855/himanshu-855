@@ -37,16 +37,14 @@ Building. Learning. Shipping.
 
 ## 🚀 Featured Projects
 
-### MeetCode
-AI-powered coding interview platform.
+### ResumeIQ
+AI-powered Resume Analyzer with ATS Score
 
 ### BrainBolt 
 AI-powered platform to generate, run, 
 and preview Next.js applications, 
 from natural language prompts
 
-### DSA Tracker
-Track coding progress and problems solved.
 
 ---
 
